@@ -1,0 +1,41 @@
+.con
+{
+    margin: 10%;
+}
+.text
+{
+    padding: 5%;
+}
+.text i
+{
+    font-size: 2rem;
+    color: #e91e63;
+}
+.text h4
+{
+    float: right;
+    font-size: 22px;
+    font-weight: 700;
+}
+.text h2{
+    margin-left: 66%;
+    font-style: italic;
+    font-weight: 500;
+    color: #e91e63;
+}
+
+.text h3 
+{
+    font-size: 25px;
+    margin-top: 18%;
+    font-weight: 700;
+}
+.cardss .text h2 
+{
+    padding-left: 17%;
+    margin-left: 57%;
+}
+.log a
+{
+    border: 1px solid #e91e63;
+}
